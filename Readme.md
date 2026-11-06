@@ -45,7 +45,7 @@ technical interviews.
 
 | Date | Daily Log |
 |---|---|
-| 05-11-2026 | [View](Daily-Logs/November-2026/05-11-2026.md) |
+| 05-11-2026 | [View](Daily_logs/November-2026/05-11-2026.md) |
 
 ---
 
